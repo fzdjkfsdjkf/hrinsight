@@ -2,6 +2,8 @@
 
 Ссылка: https://hrinsight-zbbpwwwcyzbkttefwfufq7.streamlit.app/
 
+Ссылка на исходный код: https://github.com/fzdjkfsdjkf/hrinsight/blob/main/app.py
+
 # Краткая инструкция
 
 ## Как запустить
